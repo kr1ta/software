@@ -31,8 +31,7 @@ namespace PhotoOrderSystem
 
         public size_enum Size
         {
-            get
-            { return _size; }
+            get { return _size; }
             set { _size = value; }
         }
 
