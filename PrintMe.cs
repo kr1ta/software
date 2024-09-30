@@ -34,7 +34,7 @@ namespace PhotoOrderSystem
 
         public virtual void SendOrder()
         {
-            Console.WriteLine("Заказ отправлен!");
+            Console.WriteLine("Order  is successfully sent!");
         }
 
         public virtual void ShowID()
@@ -57,6 +57,7 @@ namespace PhotoOrderSystem
         public virtual void RequestMoney()
         {
             Console.WriteLine("Give us money please");
+			# TODO
         }
 
         public virtual void AddPhoto()
