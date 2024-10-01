@@ -1,7 +1,5 @@
 ﻿using System;
 
-# some comment cause idk what to change
-
 namespace PhotoOrderSystem
 {
     public class Order
